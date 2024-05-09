@@ -1,0 +1,6 @@
+{
+    "name": "The Apocryphal Album",
+    "landing_text": "As above, so below. $(br)Welcome, $(playername).",
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true
+}

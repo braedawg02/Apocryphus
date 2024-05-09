@@ -1,0 +1,19 @@
+{
+    "name": "Intro to The Aether",
+    "icon": "aether:aether_grass_block",
+    "category": "patchouli:aether_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Aether is a dimension thought to be lost to time, a paradise in the sky. The Aether is a world of its own, with its own unique biomes, mobs, and blocks. It is a world that is both beautiful and dangerous, with many challenges to face and rewards to reap. This chapter will help you navigate the Aether and discover all of its secrets."
+            
+        },
+        {
+            "type": "patchouli:image",
+            "image": "apocryphus:textures/gui/aether_portal.png",
+            "scale": 1
+            
+        }
+
+    ]
+}

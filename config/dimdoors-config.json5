@@ -1,0 +1,73 @@
+{
+	"general": {
+		"teleportOffset": 1.0,
+		"riftBoundingBoxInCreative": false,
+		"riftCloseSpeed": 0.01,
+		"riftGrowthSpeed": 1.0,
+		"depthSpreadFactor": 20,
+		"endermanSpawnChance": 5.0E-5,
+		"endermanAggressiveChance": 0.5
+	},
+	"pockets": {
+		"pocketGridSize": 32,
+		"maxPocketSize": 15,
+		"privatePocketSize": 2,
+		"publicPocketSize": 1,
+		"defaultWeightEquation": "5",
+		"fallbackWeight": 5,
+		"asyncWorldEditPocketLoading": true,
+		"canUseRiftSignatureInPrivatePockets": true
+	},
+	"world": {
+		"clusterGenChance": 9.9999999999E10,
+		"clusterDimBlacklist": [
+			"aether:the_aether",
+			"minecraft:the_nether",
+			"minecraft:the_end",
+			"twilightforest:twilight_forest",
+			"dimdungeons:build_dimension",
+			"dimdungeons:dungeon_dimension"
+		],
+		"gatewayDimBlacklist": [
+			"aether:the_aether",
+			"minecraft:the_nether",
+			"minecraft:the_end",
+			"twilightforest:twilight_forest",
+			"dimdungeons:build_dimension",
+			"dimdungeons:dungeon_dimension"
+		]
+	},
+	"dungeons": {
+		"maxDungeonDepth": 50
+	},
+	"monoliths": {
+		"dangerousLimboMonoliths": false,
+		"monolithTeleportation": true
+	},
+	"limbo": {
+		"hardcoreLimbo": false,
+		"limboBlocksCorruptingOverworldAmount": 5.0,
+		"worldsLeadingToLimbo": {
+			"list": [],
+			"blacklist": true
+		}
+	},
+	"graphics": {
+		"showRiftCore": false,
+		"highlightRiftCoreFor": 15000,
+		"riftSize": 1.0,
+		"riftJitter": 1.0
+	},
+	"doors": {
+		"closeDoorBehind": true,
+		"doorList": {
+			"mode": "DISABLE",
+			"doors": []
+		},
+		"placeRiftsInCreativeMode": true
+	},
+	"decay": {
+		"decaySpreadChance": 1.0,
+		"decayDelay": 40
+	}
+}
