@@ -31,37 +31,37 @@
 		"buried_treasure": true
 	},
 	"villages": {
-		"village_plains": true,
-		"village_desert": true,
-		"village_savanna": true,
-		"village_snowy": true,
-		"village_taiga": true
+		"village_plains": false,
+		"village_desert": false,
+		"village_savanna": false,
+		"village_snowy": false,
+		"village_taiga": false
 	},
 	"nether_complexes": {
-		"fortress": true,
+		"fortress": false,
 		"bastion_remnant": true
 	},
 	"ocean_monuments": {
-		"monument": true
+		"monument": false
 	},
 	"jungle_temples": {
-		"jungle_pyramid": true
+		"jungle_pyramid": false
 	},
 	"nether_fossils": {
 		"nether_fossil": true
 	},
 	"mineshafts": {
-		"mineshaft": true,
-		"mineshaft_mesa": true
+		"mineshaft": false,
+		"mineshaft_mesa": false
 	},
 	"pillager_outposts": {
-		"pillager_outpost": true
+		"pillager_outpost": false
 	},
 	"swamp_huts": {
-		"swamp_hut": true
+		"swamp_hut": false
 	},
 	"strongholds": {
-		"stronghold": true
+		"stronghold": false
 	},
 	"ruined_portals": {
 		"ruined_portal": true,

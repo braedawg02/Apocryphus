@@ -2,21 +2,21 @@
 ["Customisable Chat Greeting Message"]
 	#Customisable message that will appear in chat when a world is loaded. This is useful for displaying credits.
 	#Customisable message that will be displayed in chat when a world is loaded.
-	"#1) Display Chat Greeting Message?" = false
+	"#1) Display Chat Greeting Message?" = true
 	#The text to be displayed in chat.
-	"#2) Greeting Message Text" = "Hello there! Welcome to my modpack."
+	"#2) Greeting Message Text" = "Welcome, to Apocryphus:As Above, So Below."
 	#The color of the message to be displayed in chat.
 	#Allowed Values: Blue, Green, Red, Aqua, Yellow, White, Black, Grey, Purple, Dark_Blue, Dark_Green, Dark_Red, Dark_Purple
-	"#3) Greeting Message Color" = "Purple"
+	"#3) Greeting Message Color" = "Dark_Purple"
 
 ["Customisable Start Message"]
 	#Customisable message that will appear each time the game starts. This is useful for displaying credits.
 	#Customisable message that will appear each time the game starts. This is useful for displaying credits.
-	"#1) Display message box?" = false
+	"#1) Display message box?" = true
 	#Will the window show on top of all other windows? Recommended to keep set to True.
 	"#2) Display message box topmost?" = true
 	#The text that will be displayed in the message box.
-	"#3) Message Box Text" = "Hello Modpack Users! Made by matt_r__"
+	"#3) Message Box Text" = "Welcome to Apocryphus! Developed by Braedawg02."
 
 ["Customisable First Start Message"]
 	#A customisable message that will only appear when the game is started for the first time. This is useful for displaying instructions.
