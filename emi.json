@@ -1,0 +1,155 @@
+{
+  "favorites": [
+    {
+      "stack": "item:twilightforest:steeleaf_boots{Damage:0,Enchantments:[{id:\"minecraft:feather_falling\",lvl:2s}]}"
+    },
+    {
+      "stack": "item:twilightforest:lamp_of_cinders{Damage:0}"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:stick",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:tombstone:grave_dust"
+    },
+    {
+      "stack": "item:minecraft:music_disc_mall"
+    },
+    {
+      "stack": "item:minecraft:bundle{Items:[{Count:2b,id:\"minecraft:blue_wool\"},{Count:6b,id:\"minecraft:red_carpet\"},{Count:6b,id:\"minecraft:blue_carpet\"},{Count:32b,id:\"minecraft:stick\"},{Count:12b,id:\"minecraft:terracotta\"},{Count:3b,id:\"minecraft:iron_ingot\"},{Count:1b,id:\"minecraft:diamond\"},{Count:1b,id:\"minecraft:cobblestone\"},{Count:1b,id:\"minecraft:cobbled_deepslate\"}]}"
+    }
+  ],
+  "lookup_history": [
+    {
+      "type": "item",
+      "id": "deep_dark_regrowth:cobbled_grimstone",
+      "amount": 6
+    },
+    "item:deep_dark_regrowth:ghost_flowers",
+    {
+      "type": "item",
+      "id": "minecraft:beetroot",
+      "amount": 12
+    },
+    "item:aquaculture:worm_farm",
+    "item:minecraft:birch_fence",
+    "#item:minecraft:wooden_fences",
+    "item:aquaculture:bobber",
+    "item:aquaculture:fishing_line",
+    "item:aquaculture:gold_hook",
+    "item:aquaculture:iron_hook",
+    "item:minecraft:chest",
+    {
+      "type": "item",
+      "id": "minecraft:green_dye",
+      "amount": 2
+    },
+    "item:midnight:corrupted_pearl",
+    {
+      "type": "item",
+      "id": "midnight:nightstone",
+      "amount": 5
+    },
+    "item:midnight:coarse_night_dirt",
+    {
+      "type": "item",
+      "id": "midnight:night_dirt",
+      "amount": 4
+    },
+    "item:midnight:ghost_plant",
+    {
+      "type": "item",
+      "id": "midnight:shadowroot_log",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:purple_concrete_powder",
+      "amount": 2
+    },
+    "item:minecraft:cake",
+    "item:colossalchests:chest_wall_wood",
+    "item:colossalchests:colossal_chest_wood",
+    "item:tombstone:voodoo_poppet",
+    {
+      "type": "item",
+      "id": "minecraft:moss_block",
+      "amount": 2
+    },
+    "item:minecraft:bundle",
+    {
+      "type": "item",
+      "id": "minecraft:mutton",
+      "amount": 2
+    },
+    "item:minecraft:apple",
+    "item:minecraft:paper",
+    "item:backpacked:backpack{Items:[]}",
+    "item:colossalchests:interface_obsidian",
+    "item:minecraft:leather_chestplate{AttributeModifiers:[{Amount:3.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"chest\",UUID:[I;-2111904487,-554023986,-1556103054,1473873795]},{Amount:0.05d,AttributeName:\"minecraft:generic.attack_damage\",Name:\"base_bonus\",Operation:2,Slot:\"chest\",UUID:[I;45098623,-1019850778,-1612279832,1983885566]}],Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:1s}],display:{Name:\u0027{\"translate\":\"set.aquamirae.dead_sea_doublet\"}\u0027,color:711840}}",
+    "item:twilightforest:steeleaf_boots{Damage:0,Enchantments:[{id:\"minecraft:feather_falling\",lvl:2s}]}",
+    "item:pickletweaks:grass_fiber_mesh{Damage:0}",
+    "item:pickletweaks:grass_fiber",
+    {
+      "type": "item",
+      "id": "deep_dark_regrowth:ethereum_coin",
+      "amount": 2
+    },
+    "item:deep_dark_regrowth:etherium_gem",
+    "item:deep_dark_regrowth:void_breaker{Damage:0}",
+    "item:deep_dark_regrowth:unbreakability_seal",
+    "item:deep_dark_regrowth:plasma",
+    "item:deep_dark_regrowth:sculk_bone_block",
+    "item:deep_dark_regrowth:reinforced_lamp",
+    "item:aquamirae:abyssal_amethyst",
+    "item:obscure_api:astral_dust",
+    "item:sereneseasons:calendar",
+    "item:twilightforest:block_and_chain{Damage:0}",
+    "item:minecraft:iron_chestplate{AttributeModifiers:[{Amount:6.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"chest\",UUID:[I;310277217,1159743455,-1456405079,397762285]},{Amount:0.04d,AttributeName:\"obscure_api:penetration\",Name:\"base_bonus\",Operation:2,Slot:\"chest\",UUID:[I;-1184017272,677528397,-1994627460,2072864583]}],Damage:0,display:{Name:\u0027{\"translate\":\"set.aquamirae.twilight_grotto_chestplate\"}\u0027}}",
+    "item:minecraft:iron_leggings{AttributeModifiers:[{Amount:5.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"legs\",UUID:[I;-2032642338,762727237,-2112486211,-870929181]},{Amount:0.08d,AttributeName:\"minecraft:generic.attack_damage\",Name:\"base_bonus\",Operation:2,Slot:\"legs\",UUID:[I;313463796,550388604,-1267856634,606894748]}],Damage:0,display:{Name:\u0027{\"translate\":\"set.aquamirae.dead_sea_leggings\"}\u0027}}",
+    {
+      "type": "jemi",
+      "uid": "incendium:infernal_dunes/inferno/kill"
+    }
+  ],
+  "craft_history": [
+    "minecraft:bread",
+    "sanitydim:garland",
+    "aquaculture:planks_from_driftwood",
+    "aquaculture:worm_farm",
+    "minecraft:dark_oak_fence",
+    "minecraft:stick",
+    "minecraft:dark_oak_planks",
+    "aquaculture:fishing_line",
+    "aquaculture:tackle_box",
+    "aquaculture:iron_hook",
+    "aquaculture:diamond_fishing_rod",
+    "minecraft:red_bed",
+    "minecraft:crafting_table",
+    "minecraft:acacia_planks",
+    "pickletweaks:emerald_sword",
+    "minecraft:torch",
+    "minecraft:emerald",
+    "minecraft:lapis_lazuli",
+    "colossalchests:chest_wall_wood",
+    "minecraft:spruce_planks",
+    "colossalchests:colossal_chest_wood",
+    "minecraft:chest",
+    "minecraft:iron_boots",
+    "minecraft:iron_helmet",
+    "minecraft:iron_leggings",
+    "minecraft:iron_ingot_from_iron_block",
+    "minecraft:furnace"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

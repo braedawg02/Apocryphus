@@ -1,37 +1,5 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {
-    "patchouli:apocryphus": {
-      "viewedEntries": [
-        "patchouli:test_entry",
-        "patchouli:test_etry",
-        "patchouli:aether_intro",
-        "patchouli:aether_intro_entry"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "dimdungeons:guide_book": {
-      "viewedEntries": [
-        "dimdungeons:introduction",
-        "dimdungeons:artifact_homeward_pearl"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "patchouli:as_above_so_below": {
-      "viewedEntries": [
-        "patchouli:aether/aether_intro",
-        "patchouli:misc/links"
-      ],
-      "bookmarks": [
-        {
-          "entry": "patchouli:misc/links",
-          "page": 0
-        }
-      ],
-      "completedManualQuests": []
-    }
-  }
+  "bookData": {}
 }

@@ -4,10 +4,10 @@
 	#Customisable message that will be displayed in chat when a world is loaded.
 	"#1) Display Chat Greeting Message?" = true
 	#The text to be displayed in chat.
-	"#2) Greeting Message Text" = "Welcome, to Apocryphus:As Above, So Below."
+	"#2) Greeting Message Text" = "Welcome to the world of Apocryphus!"
 	#The color of the message to be displayed in chat.
 	#Allowed Values: Blue, Green, Red, Aqua, Yellow, White, Black, Grey, Purple, Dark_Blue, Dark_Green, Dark_Red, Dark_Purple
-	"#3) Greeting Message Color" = "Dark_Purple"
+	"#3) Greeting Message Color" = "Purple"
 
 ["Customisable Start Message"]
 	#Customisable message that will appear each time the game starts. This is useful for displaying credits.
@@ -16,16 +16,16 @@
 	#Will the window show on top of all other windows? Recommended to keep set to True.
 	"#2) Display message box topmost?" = true
 	#The text that will be displayed in the message box.
-	"#3) Message Box Text" = "Welcome to Apocryphus! Developed by Braedawg02."
+	"#3) Message Box Text" = "Apocryphus, by Braedawg02"
 
 ["Customisable First Start Message"]
 	#A customisable message that will only appear when the game is started for the first time. This is useful for displaying instructions.
 	#A message box that will be displayed when the game is started for the first time. This is useful for displaying instructions.
-	"#1) Display message box?" = false
+	"#1) Display message box?" = true
 	#Will the window show on top of all other windows? Recommended to keep set to True.
 	"#2) Display message box topmost?" = true
 	#The text that will be displayed in the message box.
-	"#3) Message Box Text" = "Welcome. Thank you for starting my modpack for the first time!"
+	"#3) Message Box Text" = "Welcome to Apocryphus!"
 
 ["Open A Website when the Game Starts"]
 	#The browser will open a webpage when the game starts. This is useful for providing support and displaying credits.

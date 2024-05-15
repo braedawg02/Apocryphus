@@ -1,0 +1,14 @@
+{
+    "com.teammetallurgy.aquaculture.client.gui.screen.TackleBoxScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 130
+            },
+            "SETTINGS": {
+                "horizontalOffset": 144,
+                "top": -15
+            }
+        }
+    }
+}

@@ -3,7 +3,7 @@ itemsPerColumn = 4
 #Range: 1 ~ 4
 itemsPerRow = 4
 diyData = true
-showDevData = true
+showDevData = false
 enchantsBlacklist = ["flimflam", "soulBound"]
 hiddenTabs = []
 dimensionsBlacklist = [-11]

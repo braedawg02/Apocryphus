@@ -9,7 +9,7 @@ enableBulkTransferAll = true
 #Should shift-ctrl-drop-clicking drop all items of the same type at once?
 enableBulkDrop = true
 #Should space-clicking move all items even if an empty slot was clicked?
-allowBulkTransferAllOnEmptySlot = true
+allowBulkTransferAllOnEmptySlot = false
 #Should holding shift and moving your mouse over items quick-transfer them without requiring each to be clicked?
 enableShiftDrag = true
 

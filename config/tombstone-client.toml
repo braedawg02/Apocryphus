@@ -14,7 +14,7 @@
 	#Allows the ghost to appear around you during Halloween [false/true|default:true]
 	allow_halloween_ghost = true
 	#Shows only the elapsed minecraft days since the death on graves [false/true|default:false]
-	date_in_mc_time = false
+	date_in_mc_time = true
 	#Display or not the messages of gain of points in knowledge of death [false/true|default:true]
 	display_knowledge_message = true
 	#Equips elytra in priority when recovering your lost items [false/true|default:false]
@@ -24,7 +24,7 @@
 	#Shows the use of the Tombstone's enchantments in tooltip [false/true|default:true]
 	show_info_on_enchantment = true
 	#Favor the tools on the hotbar when recovering a grave [false/true|default:false]
-	priorize_tool_on_hotbar = false
+	priorize_tool_on_hotbar = true
 	#Allows to activate a grave by sneaking [false/true|default:true]
 	activate_grave_by_sneaking = true
 	#Denies to create a grave with your items when you die [false/true|default:false]

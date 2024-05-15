@@ -16,7 +16,7 @@
 *.ear
 *.tar.gz
 *.rar
-
+.DS_Store
 folders
 crash-reports/
 default-configs/

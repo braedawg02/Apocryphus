@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Specification-Title: TerraBlender
+Specification-Vendor: Adubbz
+Specification-Version: 2.3.0.22
+Implementation-Title: Forge
+Implementation-Version: 2.3.0.22
+Implementation-Vendor: Adubbz
+Implementation-Timestamp: 2023-11-13T03:40:18+0000
+Timestamp: 1699846818146
+Built-On-Java: 17.0.9+11-LTS-201 (Oracle Corporation)
+Build-On-Minecraft: 1.19.4
+MixinConfigs: terrablender.mixins.json,terrablender_forge.mixins.json
+

@@ -48,6 +48,10 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "midnight": {
+    "traditional_age": true,
+    "nightstag": true
+  },
   "tombstone": {
     "graves": true
   },

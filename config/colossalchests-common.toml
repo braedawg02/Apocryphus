@@ -9,7 +9,7 @@
 		#Multiplier for the number of inventory slots for this chest material.
 		chestInventoryMaterialFactorDiamond = 4.0
 		#Multiplier for the number of inventory slots for this chest material.
-		chestInventoryMaterialFactorObsidian = 4.0
+		chestInventoryMaterialFactorObsidian = 5.0
 		#If items should be ejected from the chests if one of the structure blocks are removed.
 		ejectItemsOnDestroy = false
 		#Multiplier for the number of inventory slots for this chest material.
@@ -39,9 +39,9 @@
 		#If the recipe loader should crash when finding invalid recipes.
 		crashOnInvalidRecipe = false
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
-		analytics = false
+		analytics = true
 		#If the version checker should be enabled.
-		versionChecker = false
+		versionChecker = true
 
 [machine]
 

@@ -1,4 +1,7 @@
 {
+  "tombstone:graves": null,
+  "twilightforest:quest_ram_wool": null,
+  "waystones:waystone": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -41,12 +44,10 @@
   "jade:mod_name": null,
   "jade:distance": null,
   "jade:block_face": null,
-  "waystones:waystone": null,
-  "twilightforest:quest_ram_wool": null,
-  "corpse:corpse": null,
+  "midnight:traditional_age": null,
+  "midnight:nightstag": null,
   "tombstone:graves": null,
   "twilightforest:quest_ram_wool": null,
-  "tombstone:graves": null,
   "waystones:waystone": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
@@ -89,5 +90,7 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null
+  "jade:block_face": null,
+  "midnight:traditional_age": null,
+  "midnight:nightstag": null
 }

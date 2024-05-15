@@ -1,0 +1,107 @@
+{
+    "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 25
+            },
+            "SORT": {
+                "horizontalOffset": 25
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 25
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 25
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 100
+            },
+            "SETTINGS": {
+                "horizontalOffset": 112,
+                "top": -15
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 143,
+                "top": -6
+            },
+            "SETTINGS": {
+                "horizontalOffset": 130,
+                "top": -21
+            }
+        }
+    },
+    "org.cyclops.colossalchests.client.gui.container.ContainerScreenColossalChest": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 135,
+                "top": -18
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 119,
+                "top": -3
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 2,
+                "bottom": -42
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 2,
+                "top": -17
+            },
+            "SORT": {
+                "horizontalOffset": 14,
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 14,
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 13,
+                "top": -16
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 118,
+                "top": -5
+            },
+            "SETTINGS": {
+                "horizontalOffset": 132,
+                "top": -20
+            }
+        }
+    },
+    "com.tom.storagemod.gui.StorageTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": -6
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -15
+            },
+            "SORT": {
+                "top": -15
+            },
+            "SORT_COLUMNS": {
+                "top": -15
+            },
+            "SORT_ROWS": {
+                "top": -15
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 121
+            },
+            "SETTINGS": {
+                "horizontalOffset": 133,
+                "top": -15
+            }
+        }
+    }
+}

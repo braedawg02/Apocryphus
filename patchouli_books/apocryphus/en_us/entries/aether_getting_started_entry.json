@@ -1,0 +1,37 @@
+{
+    "name": "Getting Started",
+    "icon": "aether:skyroot_water_bucket",
+    "category": "patchouli:aether_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Getting to the Aether requires a portal frame in the shape of a Nether portal, but substituting glowstone for obsidian and using a water bucket instead of flint and steel."
+            
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "aether portal",
+            "multiblock": {
+                "pattern": [
+                    [" AA "],
+                    ["A  A"],
+                    ["A  A"],
+                    [" AA "]
+
+                ],
+                "mapping": {
+                    "A": {
+                        "block": "minecraft:glowstone"
+                    }
+
+                },
+                "symmetrical": true
+                
+
+            },
+           "text": "porgal"
+            
+        }
+
+    ]
+}

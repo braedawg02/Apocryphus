@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 1
+	modpackProjectID = 3
 	#The name of the modpack
 	modpackName = "Apocryphus"
 	#The version of the modpack
-	modpackVersion = "1.01"
+	modpackVersion = "v0.03"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
